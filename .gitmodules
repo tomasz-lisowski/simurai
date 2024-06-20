@@ -1,0 +1,9 @@
+[submodule "swsim"]
+	path = swsim
+	url = https://github.com/tomasz-lisowski/swsim.git
+[submodule "swicc"]
+	path = swicc
+	url = https://github.com/tomasz-lisowski/swicc.git
+[submodule "swicc__pcsc"]
+	path = swicc__pcsc
+	url = https://github.com/tomasz-lisowski/swicc__pcsc.git
