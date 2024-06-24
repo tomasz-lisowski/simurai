@@ -4,6 +4,6 @@
 [submodule "swicc"]
 	path = swicc
 	url = https://github.com/tomasz-lisowski/swicc.git
-[submodule "swicc__pcsc"]
-	path = swicc__pcsc
-	url = https://github.com/tomasz-lisowski/swicc__pcsc.git
+[submodule "swicc-pcsc"]
+	path = swicc-pcsc
+	url = https://github.com/tomasz-lisowski/swicc-pcsc.git
