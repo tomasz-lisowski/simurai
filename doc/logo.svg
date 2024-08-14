@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13mm"
+   height="13mm"
+   viewBox="0 0 13 13"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="1000"
+   inkscape:export-ydpi="1000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     shape-rendering="crispEdges"
+     inkscape:zoom="9.8180155"
+     inkscape:cx="20.879983"
+     inkscape:cy="28.366221"
+     inkscape:window-width="1920"
+     inkscape:window-height="1128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient55945"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop55943" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="2.6850777 : -0.97170655 : 1"
+       inkscape:vp_y="0 : 999.99991 : 0"
+       inkscape:vp_z="180.48509 : -0.97170655 : 1"
+       inkscape:persp3d-origin="91.585081 : -17.638372 : 1"
+       id="perspective35556" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-15.599213 : 9.0062083 : 0"
+       inkscape:vp_y="0 : 150.9013 : 0"
+       inkscape:vp_z="15.599213 : 9.0062083 : 0"
+       inkscape:persp3d-origin="152.67573 : 24.308529 : 1"
+       id="perspective240" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-4.2828655 : 2.4726767 : 0"
+       inkscape:vp_y="0 : 41.070404 : 0"
+       inkscape:vp_z="4.2828655 : 2.4726767 : 0"
+       inkscape:persp3d-origin="163.5466 : 20.349412 : 1"
+       id="perspective240-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-27.600001 : 15.872797 : 0"
+       inkscape:vp_y="0 : 263.64226 : 0"
+       inkscape:vp_z="27.600001 : 15.872797 : 0"
+       inkscape:persp3d-origin="169.46126 : 4.2894642 : 1"
+       id="perspective240-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-7.2802016 : 4.2006536 : 0"
+       inkscape:vp_y="0 : 69.771566 : 0"
+       inkscape:vp_z="7.2802016 : 4.2006536 : 0"
+       inkscape:persp3d-origin="159.15368 : 17.554566 : 1"
+       id="perspective240-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-15.600324 : 9.0068497 : 0"
+       inkscape:vp_y="0 : 147.49177 : 0"
+       inkscape:vp_z="15.600324 : 9.0068497 : 0"
+       inkscape:persp3d-origin="152.67617 : 8.5874044 : 1"
+       id="perspective240-0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1771">
+      <g
+         id="g1775"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1773"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1711">
+      <g
+         id="g1715"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1713"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2023">
+      <g
+         id="g2027"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path2025"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1693">
+      <g
+         id="g1697"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1695"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1699">
+      <g
+         id="g1703"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1701"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1705">
+      <g
+         id="g1709"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1707"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1711-1">
+      <g
+         id="g1715-5"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1713-9"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1717">
+      <g
+         id="g1721"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1719"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1723">
+      <g
+         id="g1727"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1725"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1729">
+      <g
+         id="g1733"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1731"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1735">
+      <g
+         id="g1739"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1737"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1741">
+      <g
+         id="g1745"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1743"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1747">
+      <g
+         id="g1751"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1749"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1753">
+      <g
+         id="g1757"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1755"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1759">
+      <g
+         id="g1763"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1761"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1765">
+      <g
+         id="g1769"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1767"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1771-4">
+      <g
+         id="g1775-9"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1773-0"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1777">
+      <g
+         id="g1781"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1779"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1783">
+      <g
+         id="g1787"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1785"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1789">
+      <g
+         id="g1793"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1791"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1795">
+      <g
+         id="g1799"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1797"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1801">
+      <g
+         id="g1805"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1803"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1807">
+      <g
+         id="g1811"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1809"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1813">
+      <g
+         id="g1817"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1815"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1819">
+      <g
+         id="g1823"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1821"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1825">
+      <g
+         id="g1829"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1827"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1831">
+      <g
+         id="g1835"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1833"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1837">
+      <g
+         id="g1841"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1839"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1843">
+      <g
+         id="g1847"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1845"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1849">
+      <g
+         id="g1853"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1851"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1855">
+      <g
+         id="g1859"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1857"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1861">
+      <g
+         id="g1865"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1863"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1867">
+      <g
+         id="g1871"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1869"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1873">
+      <g
+         id="g1877"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1875"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1879">
+      <g
+         id="g1883"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1881"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1885">
+      <g
+         id="g1889"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1887"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1891">
+      <g
+         id="g1895"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1893"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1897">
+      <g
+         id="g1901"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1899"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1903">
+      <g
+         id="g1907"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1905"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1909">
+      <g
+         id="g1913"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1911"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1915">
+      <g
+         id="g1919"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1917"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1921">
+      <g
+         id="g1925"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1923"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1927">
+      <g
+         id="g1931"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1929"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1933">
+      <g
+         id="g1937"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1935"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1939">
+      <g
+         id="g1943"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1941"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1945">
+      <g
+         id="g1949"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1947"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1951">
+      <g
+         id="g1955"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1953"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1957">
+      <g
+         id="g1961"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1959"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1963">
+      <g
+         id="g1967"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1965"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1969">
+      <g
+         id="g1973"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1971"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1975">
+      <g
+         id="g1979"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1977"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1981">
+      <g
+         id="g1985"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1983"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1987">
+      <g
+         id="g1991"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1989"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1993">
+      <g
+         id="g1997"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path1995"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1999">
+      <g
+         id="g2003"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path2001"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2005">
+      <g
+         id="g2009"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path2007"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2011">
+      <g
+         id="g2015"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path2013"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2017">
+      <g
+         id="g2021"
+         style="stroke-width:1">
+        <path
+           d="M 0,0 H 440 V 240 H 0 Z"
+           clip-rule="evenodd"
+           id="path2019"
+           style="stroke-width:0.75" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.102928,-17.286377)">
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
+       x="54.58176"
+       y="29.7276"
+       id="text29179"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1"
+         x="54.58176"
+         y="29.7276"
+         id="tspan1098">SIMurai</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0.66;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2"
+       x="50.157921"
+       y="19.334326"
+       id="text8612"><tspan
+         sodipodi:role="line"
+         id="tspan8610"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.2;fill:#000000;fill-opacity:1"
+         x="50.157921"
+         y="19.334326"> .\_/.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.2;fill:#000000;fill-opacity:1"
+         x="50.157921"
+         y="21.443584"
+         id="tspan10066">//- -\\</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.2;fill:#000000;fill-opacity:1"
+         x="50.157921"
+         y="23.552843"
+         id="tspan10068">_. = ._</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.2;fill:#000000;fill-opacity:1"
+         x="50.157921"
+         y="25.662104"
+         id="tspan10072">  \|/</tspan></text>
+  </g>
+</svg>
